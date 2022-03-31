@@ -1,0 +1,237 @@
+CRITICAL - 2022-03-15 00:00:52 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:01:05 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:01:10 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:05:28 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:17:28 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:17:46 --> Class 'App\Controllers\CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:17:48 --> Class 'App\Controllers\CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:18:38 --> Class 'App\Controllers\CI_Controller' not found
+#0 C:\xampp\htdocs\birddog\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\birddog\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/register_v...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/register_v...')
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-15 00:18:55 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:22:31 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:26:23 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:26:47 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:28:54 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:32:36 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 00:32:57 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 00:52:28 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 00:53:06 --> Cannot call constructor
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 00:57:08 --> Too few arguments to function CodeIgniter\Controller::initController(), 0 passed in C:\xampp\htdocs\birddog\app\Controllers\user.php on line 14 and exactly 3 expected
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(14): CodeIgniter\Controller->initController()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 00:58:12 --> Undefined variable: request
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 01:08:02 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 01:08:19 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 01:08:49 --> Undefined property: App\Controllers\User::$load
+#0 C:\xampp\htdocs\birddog\app\Controllers\user.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-15 02:06:31 --> Class 'App\Models\UserModel' not found
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->signin()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-15 02:17:44 --> Class 'App\Models\UserModel' not found
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->signin()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-03-15 02:19:29 --> Error connecting to the database: Unknown database 'birddog'
+CRITICAL - 2022-03-15 02:19:29 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'birddog'
+#0 C:\xampp\htdocs\birddog\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\birddog\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\birddog\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\birddog\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\birddog\app\Controllers\LoginController.php(26): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->signin()
+#6 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#7 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-15 02:19:46 --> Error connecting to the database: Unknown database 'birddog'
+CRITICAL - 2022-03-15 02:19:46 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'birddog'
+#0 C:\xampp\htdocs\birddog\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\birddog\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\birddog\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\birddog\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\birddog\app\Controllers\LoginController.php(26): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->signin()
+#6 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#7 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-15 02:38:37 --> Column 'dealership_license' cannot be null
+CRITICAL - 2022-03-15 02:38:37 --> Column 'dealership_license' cannot be null
+#0 C:\xampp\htdocs\birddog\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\birddog\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\birddog\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\birddog\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\birddog\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\birddog\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\birddog\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\birddog\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\birddog\app\Controllers\RegisterController.php(41): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\RegisterController->store()
+#10 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegisterController))
+#11 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}

@@ -1,0 +1,63 @@
+CRITICAL - 2022-03-28 05:36:28 --> Too few arguments to function CodeIgniter\Router\RouteCollection::add(), 1 passed in C:\xampp\htdocs\birddog\app\Config\Routes.php on line 44 and at least 2 expected
+#0 C:\xampp\htdocs\birddog\app\Config\Routes.php(44): CodeIgniter\Router\RouteCollection->add('/RegisterationC...')
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 05:36:33 --> Too few arguments to function CodeIgniter\Router\RouteCollection::add(), 1 passed in C:\xampp\htdocs\birddog\app\Config\Routes.php on line 44 and at least 2 expected
+#0 C:\xampp\htdocs\birddog\app\Config\Routes.php(44): CodeIgniter\Router\RouteCollection->add('/RegisterationC...')
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 05:36:35 --> Too few arguments to function CodeIgniter\Router\RouteCollection::add(), 1 passed in C:\xampp\htdocs\birddog\app\Config\Routes.php on line 44 and at least 2 expected
+#0 C:\xampp\htdocs\birddog\app\Config\Routes.php(44): CodeIgniter\Router\RouteCollection->add('/RegisterationC...')
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 05:36:39 --> Too few arguments to function CodeIgniter\Router\RouteCollection::add(), 1 passed in C:\xampp\htdocs\birddog\app\Config\Routes.php on line 44 and at least 2 expected
+#0 C:\xampp\htdocs\birddog\app\Config\Routes.php(44): CodeIgniter\Router\RouteCollection->add('/RegisterationC...')
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 05:36:46 --> Too few arguments to function CodeIgniter\Router\RouteCollection::add(), 1 passed in C:\xampp\htdocs\birddog\app\Config\Routes.php on line 44 and at least 2 expected
+#0 C:\xampp\htdocs\birddog\app\Config\Routes.php(44): CodeIgniter\Router\RouteCollection->add('/RegisterationC...')
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 06:01:20 --> Too few arguments to function App\Controllers\LoginController::ForgotPassword(), 0 passed in C:\xampp\htdocs\birddog\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->ForgotPassword()
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-28 06:03:58 --> Undefined property: App\Controllers\LoginController::$db
+#0 C:\xampp\htdocs\birddog\app\Controllers\LoginController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->ForgotPassword()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-28 07:17:57 --> Undefined property: App\Controllers\LoginController::$db
+#0 C:\xampp\htdocs\birddog\app\Controllers\LoginController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\birddog\system\CodeIgniter.php(832): App\Controllers\LoginController->ForgotPassword()
+#2 C:\xampp\htdocs\birddog\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 C:\xampp\htdocs\birddog\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\birddog\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\birddog\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

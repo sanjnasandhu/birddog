@@ -1,0 +1,162 @@
+@media (max-width: 1024px) {
+    button.btn.btn-start-chat {
+        padding: 10px 12px;
+    }
+    .contract-profile .name span {
+        font-size: 18px;
+        line-height: 24px; 
+    }
+    .contract-profile .contract-info {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .contract-profile .contract-info img {
+        margin-right: 8px;
+    }
+    #chatroom-section label.form-check-label {
+        font-size: 14px;
+    }
+}
+@media(max-width:992px){
+    #content {
+        margin-left: 0px;
+    }
+    .sidebar .sidebar-brand .sidebar-brand-text{
+        display: block;
+    }
+    .login-form {
+        padding: 0 40px;
+    }
+    #accordionSidebar .navbar-account {
+        justify-content: center;
+    }
+    #accordionSidebar .navbar-account a {
+        padding-left: 0; 
+        text-align: center;
+    }
+    #accordionSidebar .navbar-account a span {
+        display: block;
+        font-size: 0.65rem;
+    }
+    .contacts__title {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .people-list .chat-list li {
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .people-list .chat-list img {
+        width: 45px;
+        height: 45px;
+    }
+    .people-list .chat-list li .name {
+        font-size: 13px;
+    }
+    .people-list .status {
+        font-size: 10px;
+    }
+    .chat.chat-box .cover-img-box {
+        padding: 3px 24px; 
+    }
+    .chat-message .input-group-prepend {
+        right: 14%;
+    }
+    .contacts__list {
+        font-size: 14px;
+    }
+    .feed-section .feed-content {
+        margin-bottom: 20px;
+    }
+    .user-profile-img {
+        margin-top: 50px;
+    }
+    #inlineform-section .form-row .col {
+        flex: 50%;
+        display: block;
+    }
+    #inlineform-section button.btn.btn-primary {
+        margin-top: 15px;
+    }
+}
+@media(max-width:568px){
+    #login-sign-page .bg-theme {
+        background-size: contain;
+        height: 350px;
+    }
+    #login-sign-page .login-form {
+        padding: 40px 20px;
+    }
+    .right-content-wrap .table-responsive {
+        display: inline-table;
+    }
+    #dataTable_wrapper .table-responsive.table-striped a.mr-2 {
+        margin-right: 0!important;
+    }
+    div#content {
+        margin-left: 0;
+    }
+    .main-content-area {
+        padding: 20px 0px;
+    }
+    #accordionSidebar .navbar-account a{
+        padding-left:4px;
+    }
+    #accordionSidebar .navbar-account{
+        height: 4rem;
+    }
+    div#dataTable_length{
+        text-align: left;
+    }
+    div#dataTable_filter{
+        text-align: left;
+    }
+    .table-responsive{
+        display: block;
+    }
+    .chat-message .input-group-prepend {
+        right: 8%;
+        top: -45px;
+    }
+    .chat.chat-box .cover-img-box {
+        margin-top: 10px;
+    }
+    .feed-content .body-content ul.chat {
+        padding: 0;
+    }
+    .post-comments .chat li.agent.reply {
+        margin-left: 50px;
+    }
+    .search-grid .col {
+        flex: 100%;
+        display: block;
+    } 
+    .nav.contract-tabs {
+        flex-wrap: wrap;
+        margin-top: 30px;
+    }
+    .contract-right h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .nav.contract-tabs .nav-link {
+        width: 100%;
+        font-size: 14px; 
+    }
+    .contracts-tabs h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .contract-tab-content div {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .contract-profile {
+        flex-direction: column;
+    }
+    .complete-check {
+        justify-content: center!important;
+        margin-top: 20px;
+    }
+}
